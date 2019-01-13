@@ -1,5 +1,10 @@
 package com.model.danLi;
 
+/**
+ * 臣子类
+ * @author fmr
+ *
+ */
 public class Minister {
 
 	public static void main(String[] args) {
